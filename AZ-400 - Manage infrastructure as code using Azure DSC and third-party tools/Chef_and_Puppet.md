@@ -35,7 +35,7 @@ Chef Infra has three main architectural components:
 
 
 ### Puppet
-Puppet is a deployment and configuration management toolset that provides you with enterprise tools that you need to automate an entire lifecycle on your Azure infrastructure. It also provides consistency and transparency into infrastructure changes.
+Puppet is a deployment and configuration management toolset that provides you with enterprise tools that you need to automate an entire lifecycle on your Azure infrastructure. It **also** provides consistency and transparency into infrastructure changes.
 
 Puppet provides a series of open-source configuration management tools and projects. It also provides Puppet Enterprise, a configuration management platform that allows you to maintain state in both your infrastructure and application deployments.
 
